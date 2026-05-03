@@ -1,0 +1,13 @@
+hola bienvenido a main
+
+este es un ejercicio practico para aprender de ramas , es un verdadero gusto
+empezar dede aqui el nuevo aprendizaje
+
+titulo 1
+este es el titulo1.
+
+titulo 2
+este es el tilulo2.
+
+titulo 3
+este es el titulo3.
