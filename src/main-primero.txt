@@ -7,7 +7,7 @@ titulo 1 aqui arregla rama 2
 este es el titulo1.
 
 titulo 2
-este es el tilulo2.
+este es el tilulo2 aqui se  hace cambio importante desde main .
 
 titulo 3
 este es el titulo3.
